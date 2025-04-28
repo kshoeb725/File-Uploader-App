@@ -71,8 +71,8 @@ You can modify these if you're connecting to a different server.
 
 ## 📸 Screenshots
 
-| Upload Screen | Download Confirmation |
-|:-------------:|:----------------------:|
+| File Uploader  | 
+|:-------------:|
 ![file_uploader](https://github.com/user-attachments/assets/8f4ba53f-73ff-4072-abb4-b56c08dc784c)
 
 
